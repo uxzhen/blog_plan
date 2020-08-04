@@ -13,3 +13,11 @@
 ``
 
 ## 适配将使用 lit https://uxzhen.github.io/auto_css_1kb/ + rem
+
+
+
+
+## 前端使用nuxt做seo优化
+
+
+## 后端使用 java的springboot + mysql + redis
