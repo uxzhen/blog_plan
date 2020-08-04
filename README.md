@@ -12,12 +12,26 @@
         }
 ``
 
-## 适配将使用 lit https://uxzhen.github.io/auto_css_1kb/ + rem
+## 适配将使用 
+``
+> lit https://uxzhen.github.io/auto_css_1kb/ 
+
+
+> rem html{font-size:13.33333333vw} 
+``
 
 
 
+## 前端框架
+``
+> nuxt做seo优化
+> https://zh.nuxtjs.org/
+``
 
-## 前端使用nuxt做seo优化
+## 后端框架
+``
+ > java的springboot
+ > mysql
+ > redis
+``
 
-
-## 后端使用 java的springboot + mysql + redis
